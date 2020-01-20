@@ -11,6 +11,22 @@ A Python Program that cheats at GeoScents.net.
 - pynput
 - geopy
 
+## How to Use
+
+1. Load up the Application
+2. Load up GeoScents.net
+3. Put them side by side
+4. Start a game on the 'World Server'
+5. Click "Text Top Left" and then hover over the top left of where text shows up for the location and then press space. DO NOT CLICK otherwise the program crashes (who knows why?)
+6. Repeat for "Text Bottom Right" and do the same but for the bottom right.
+7. Click "Equator" and then hover over where the equator is on the map and press space. 
+8. Same for "Cape-CT" or the Cape of Good Hope (where Cape Town is basically).
+9. You can experiment with "Get Word" and "Get Location", but to do both of them at the same time, click "Redo W-L" and it should automatically read the text and look up coordinates. Finally once that process is done, click "Click" and your mouse should move to the location on the map. 
+
+## Example GIFs
+
+
+
 ## Explanation
 
 I decided to use an afternoon to make a program to beat the game for me. There were 3 things needed:
