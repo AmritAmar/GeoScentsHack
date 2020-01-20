@@ -25,7 +25,7 @@ A Python Program that cheats at GeoScents.net.
 
 ## Example GIFs
 
-
+![gs1](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents1.gif)
 
 ## Explanation
 
