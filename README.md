@@ -26,6 +26,10 @@ A Python Program that cheats at GeoScents.net.
 ## Example GIFs
 
 ![gs1](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents1.gif)
+![gs2](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents2.gif)
+![gs3](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents3.gif)
+![gs4](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents4.gif)
+![gs5](https://github.com/AmritAmar/GeoScentsHack/blob/master/GeoScents5.gif)
 
 ## Explanation
 
